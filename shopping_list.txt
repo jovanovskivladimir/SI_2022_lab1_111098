@@ -1,5 +1,7 @@
 patiki x 2
 dukser x 5
 maica x 1
-skii x 2
 trenerki x 10
+tetratki x 2
+smoki
+
